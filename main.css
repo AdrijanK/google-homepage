@@ -1,0 +1,78 @@
+.gmail ul  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    text-decoration: none;
+  }
+  .gmail li {
+    float: right;
+  }
+  .gmail li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 0px 16px;
+    text-decoration: none;
+  } 
+    .state {
+    background-color: #f2f2f2;
+    color: #7188b5;
+    font-family: Open Sans, sans-serif;
+    font-size: 8px;
+    display: block;
+    border-style: solid;
+    border-color: #dadce0;
+    padding: 0 0 0 16px;
+    margin: 200px 0 0 0;
+  }
+  
+  .footer1 ul  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f2f2f2;
+  }
+  .footer1 li {
+    float: left;
+  }
+  .footer1 li a {
+    display: block;
+    color: #7188b5;
+    text-align: center;
+    padding: 0px 16px;
+    text-decoration: none;
+  } 
+  #test {
+     margin-left: 58%;
+  }
+  #logo {
+    padding: 50px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: -40px;
+    
+  }
+  
+  #search {
+    padding: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+   
+  } 
+  .submit {
+    display:flex;
+    padding: 5px;
+    flex-direction: row;
+    justify-content: center;
+    grid-auto-flow: column;
+    grid-column-gap: 10px;
+    text-decoration: none;
+    
+  }
+  
